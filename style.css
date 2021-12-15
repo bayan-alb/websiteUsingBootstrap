@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+
+.programsInformation{
+    text-align: center;
+    margin: 0px;
+}
+
+.programesName{
+    background-color: #cce5ff;
+    height: 35px;
+    margin: 0;
+    margin-top: 7px;
+}
+
+.prices{
+    background-color: #cc0000;
+}
+
+.footerSection{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    margin-top: 80px;
+}
